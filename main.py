@@ -34,7 +34,6 @@ def is_prime_l1(num):
     return True
 
 
-print(is_prime_l1(101))
 
 
 ### LEVEL 2
@@ -61,7 +60,6 @@ def is_prime_l2(num):
     return True
 
 
-print(is_prime_l2(50002952501))
 
 ### LEVEL 3
 import math
@@ -93,5 +91,7 @@ def is_prime_l3(n: int) -> bool:
         i += 6
     return True
 
-
-print(is_prime_l3(50002952501))
+if __name__ == "__main__":
+    print(is_prime_l1(101))
+    print(is_prime_l2(50002952501))
+    print(is_prime_l3(50002952501))
