@@ -82,7 +82,7 @@ def is_prime_l3(n: int) -> bool:
         return n == 3
 
     limit = math.isqrt(n)
-    print(limit)  # integer sqrt(n) without rounding up
+    # print(limit)  # integer sqrt(n) without rounding up
     i = 5
 
     while i <= limit:
