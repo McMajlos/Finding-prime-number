@@ -115,7 +115,7 @@ Test these large prime numbers to see the performance difference:
 Finding-prime-number/
 ├── main.py              # Main implementation with all three algorithms
 ├── test_is_prime.py     # Unit tests for the algorithms
-├── README.md           # This file
+└── README.md           # This file
 ```
 
 ## 🎓 Educational Value
