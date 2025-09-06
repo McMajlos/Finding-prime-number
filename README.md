@@ -116,7 +116,6 @@ Finding-prime-number/
 ├── main.py              # Main implementation with all three algorithms
 ├── test_is_prime.py     # Unit tests for the algorithms
 ├── README.md           # This file
-└── __pycache__/        # Python cache files
 ```
 
 ## 🎓 Educational Value
